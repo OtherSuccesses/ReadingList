@@ -5,7 +5,7 @@ import NoMatch from "./pages/NoMatch";
 import Nav from "./components/Nav";
 import {Route, Switch, BrowserRouter as Router} from "react-router-dom";
 
-const App = () => (
+const App = () => 
   
 
   	<div>
